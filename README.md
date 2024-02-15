@@ -1,6 +1,4 @@
-This'll be where my USTs go for the most part, I'll fix things up once my internet gets better lol
-
-[How to Install USTs](https://github.com/UntotenTheo/TheosUSTStuff/blob/main/USTInstall.md)
+# [HOW TO INSTALL A UST !!!](https://github.com/UntotenTheo/TheosUSTStuff/blob/main/USTInstall.md)
 
 ## Uploaded USTs:
 [BVSSICs Chunked Up Weapons - Reborn!](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.0-BVSSICsReborn)
