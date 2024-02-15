@@ -3,8 +3,21 @@
 ## Uploaded USTs:
 [BVSSICs Chunked Up Weapons - Reborn!](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.0-BVSSICsReborn)
 - Theo - UST Port
+
 Special Thanks:
 - BVSSIC - Original Soundpack & giving permission to upload
 - surytrap - moral support + reminders
 
-add 7-1 ultra combat and silent cheat popup menu if my internet gets better
+
+
+
+[7-1 Garden Of Forking Paths Ultra Combat Theme](https://github.com/UntotenTheo/TheosUSTStuff/releases/edit/v1.0-7-1UltraCombatTheme)
+- surytrap - putting it together
+- Theo - whole ultra combat idea
+- Listed music artists (Rex VanCandy, jakito, Marzuku, Alias Conrad Coldwood)
+
+
+
+
+ [Silent Cheat Menu Popup Sound](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.0-SilentCheatMenuPopup)
+ - Theo - muting the screech
