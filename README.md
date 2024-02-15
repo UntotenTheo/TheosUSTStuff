@@ -20,4 +20,4 @@ Special Thanks:
 
 
  [Silent Cheat Menu Popup Sound](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.0-SilentCheatMenuPopup)
- - Theo - muting the screech and putting a stamp on it (to know what it is now for sure (stamp for being muted))
+ - Theo - muting the screech and putting a stamp on it (to know what it is now for sure (stamp for being muted)) (aka everything)
