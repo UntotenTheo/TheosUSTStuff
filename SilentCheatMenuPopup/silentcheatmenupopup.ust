@@ -1,0 +1,10 @@
+{
+  "Name": "Silent Cheat Menu Popup",
+  "Author": "Theo",
+  "Description": "Turns the Cheat Menu Popup sound completely silent!",
+  "levels": {
+    "global": {
+      "Accent,Interface,UI,Alert,Resonant,Waver": "shutup.ogg"
+    }
+  }
+}
