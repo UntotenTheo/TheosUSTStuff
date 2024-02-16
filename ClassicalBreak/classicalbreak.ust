@@ -1,0 +1,12 @@
+{
+  "Name": "Classical Break",
+  "Author": "Heaven Pierce Her (UST by Theo)",
+  "Description": "Replaces Castle Vein with classicalbreak from ULTRAKILLs Files.",
+  "levels": {
+    "1-3": {
+      "clean": "classicalbreakcalm.wav",
+      "battle": "classicalbreak.wav",
+      "boss": "classicalbreakminor.wav"
+    }
+  }
+}
