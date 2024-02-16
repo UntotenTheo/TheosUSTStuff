@@ -4,7 +4,7 @@
   "Description": "Turns the Cheat Menu Popup sound completely silent!",
   "levels": {
     "global": {
-      "Accent,Interface,UI,Alert,Resonant,Waver": "shutup.ogg"
+      "Accent,Interface,UI,Alert,Resonant,Waver": "shutup.mp3"
     }
   }
 }
