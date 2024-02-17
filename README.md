@@ -19,5 +19,24 @@ Special Thanks:
 
 
 
- [Silent Cheat Menu Popup Sound](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.0-SilentCheatMenuPopup)
+ [Silent Cheat Menu Popup Sound](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.1-SilentCheatMenuPopup)
  - Theo - muting the screech and putting a stamp on it (to know what it is now for sure (stamp for being muted)) (aka everything)
+
+
+
+
+ [WAR WITHOUT REASON - RELATIVE FREESTYLE](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/v1.0-SilentCheatMenuPopup)
+ - Theo - ust
+
+Special Thanks:
+- Gigaroni - The Original Cover, providing the raw .wav files, making custom versions of Centaur A-6 and Centaur B-6 for the pack, giving permission to upload 
+
+
+
+
+ [The Altars of Selaphiel](https://github.com/UntotenTheo/TheosUSTStuff/releases/tag/cakeCrysiles-TheAltarsOfSelaphiel)
+ - Theo - ust
+
+Special Thanks:
+- Cake Crysiles - Giving permission to upload UST and also providing a custom calm loop for this
+
