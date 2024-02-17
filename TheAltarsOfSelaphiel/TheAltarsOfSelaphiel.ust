@@ -1,0 +1,11 @@
+{
+  "Name": "The Altars Of Selaphiel",
+  "Author": "Cake Crysiles (UST by Theo)",
+  "Description": "Replaces 'Altars of Apostasy' with 'The Acropolis Of Selaphiel' from the HESPERUS OST.",
+  "levels": {
+    "global": {
+      "6-1 Clean": "AcropolisCalm.wav",
+	  "6-1": "AcropolisBattle.wav"
+    }
+  }
+}
